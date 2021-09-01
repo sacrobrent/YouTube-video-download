@@ -7,8 +7,7 @@ echo "
 
 █░█ ▄▀█ ▀▄▀ ▀▄▀ ▀▄▀ █▀█ █▀█
 █▀█ █▀█ █░█ █░█ █░█ █▄█ █▀▄
-EVAN HAXXXOR 
-SETUP TOOL"|lolcat
+EVAN HAXXXOR" 
 echo -e "________________________________"
 echo -e "| Coder---> Evan Al Mahmud Irfan.       |"|pv -qL 15
 echo -e "| Github: github.com/sacrobrent  |"|pv -qL 15
